@@ -8,3 +8,5 @@ Test for Branch.
 TT
 
 Creating a new branch is quick AND simple.
+
+add merge for test.
